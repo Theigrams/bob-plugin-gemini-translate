@@ -2,6 +2,13 @@
   "identifier": "brian.bob-plugin-gemini-translate",
   "versions": [
     {
+      "version": "0.0.21",
+      "desc": "fix: remove unnecessary regex replacement in getConversation function",
+      "sha256": "f6a167398753e93d6b2c30a6b117005e64009a4bdb680bcc7bf186cbab52d262",
+      "url": "https://github.com/BrianShenCC/bob-plugin-gemini-translate/releases/download/v0.0.21/bob-plugin-gemini-translate_v0.0.21.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.19",
       "desc": "feat: User location is not supported for the API use 时，将报错信息抛出",
       "sha256": "43115edf8858e76577a6504e3cfee265d0b70ffa891994b6a70fae4ff687f714",
