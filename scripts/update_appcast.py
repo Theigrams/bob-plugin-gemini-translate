@@ -17,7 +17,7 @@ def update_appcast(message):
         "version": version,
         "desc": message,
         "sha256": file_hash,
-        "url": f"https://github.com/BrianShenCC/bob-plugin-gemini-translate/releases/download/v{version}/bob-plugin-gemini-translate_v{version}.bobplugin",
+        "url": f"https://github.com/Theigrams/bob-plugin-gemini-translate/releases/download/v{version}/bob-plugin-gemini-translate_v{version}.bobplugin",
         "minBobVersion": "0.5.0"
     }
     appcast_file = Path("appcast.json")
