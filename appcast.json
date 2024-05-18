@@ -2,6 +2,13 @@
   "identifier": "brian.bob-plugin-gemini-translate",
   "versions": [
     {
+      "version": "0.0.20",
+      "desc": "manually running workflow",
+      "sha256": "1bb8b097bcb9d37b1c10fcd3421f9fc63375ac5ec472fc5f25cfb81ef57bbad1",
+      "url": "https://github.com/BrianShenCC/bob-plugin-gemini-translate/releases/download/v0.0.20/bob-plugin-gemini-translate_v0.0.20.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
       "version": "0.0.19",
       "desc": "feat: User location is not supported for the API use 时，将报错信息抛出",
       "sha256": "43115edf8858e76577a6504e3cfee265d0b70ffa891994b6a70fae4ff687f714",
