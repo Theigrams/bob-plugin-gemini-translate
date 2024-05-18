@@ -1,5 +1,6 @@
 name: Release Plugin
 on:
+  workflow_dispatch:
   push:
     paths:
       - "src/info.json"
