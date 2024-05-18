@@ -71,7 +71,7 @@ function generatePrompts(text, mode, query, option) {
 
 function getConversation(text, mode, query, option) {
   // replace gpt&openAi with "*" to avoid gemini return "undefined".
-  const origin_text = text.replace(/gpt|openai/gi, "*");
+  const origin_text = text;
   if (mode === "polish" || mode === "translate") {
     const prompt = generatePrompts(origin_text, mode, query, option);
 
