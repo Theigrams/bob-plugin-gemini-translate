@@ -3,6 +3,13 @@
   "versions": [
     {
       "version": "0.0.21",
+      "desc": "modify appcast info to avoid conflicts",
+      "sha256": "15eb2ee7ebed3029d858325b09ccf9f2cf3a52a0fb3545d14eba9504c32823eb",
+      "url": "https://github.com/Theigrams/bob-plugin-gemini-translate/releases/download/v0.0.21/bob-plugin-gemini-translate_v0.0.21.bobplugin",
+      "minBobVersion": "0.5.0"
+    },
+    {
+      "version": "0.0.21",
       "desc": "feat: Update appcast.json URL to point to the correct repository",
       "sha256": "c00d6e1c578cb40c7c15db2564bd7f996a722dd8730566d4ef3c61b8c36b133e",
       "url": "https://github.com/Theigrams/bob-plugin-gemini-translate/releases/download/v0.0.21/bob-plugin-gemini-translate_v0.0.21.bobplugin",
