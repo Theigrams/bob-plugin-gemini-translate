@@ -5,9 +5,9 @@
   "name": "Gemini Translator",
   "summary": "调用Gemini服务进行翻译",
   "icon": "icon.png",
-  "author": "Brian Shen",
-  "homepage": "https://github.com/BrianShenCC/bob-plugin-gemini-translate",
-  "appcast": "https://raw.githubusercontent.com/BrianShenCC/bob-plugin-gemini-translate/main/appcast.json",
+  "author": "Theigrams",
+  "homepage": "https://github.com/Theigrams/bob-plugin-gemini-translate",
+  "appcast": "https://raw.githubusercontent.com/Theigrams/bob-plugin-gemini-translate/main/appcast.json",
   "minBobVersion": "0.5.0",
   "options": [
     {

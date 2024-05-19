@@ -36,8 +36,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --global user.name 'Brian Shen'
-          git config --global user.email 'shenhaoxiang1990@gmail.com'
+          git config --global user.name 'Theigrams'
+          git config --global user.email 'theigrams@buaa.edu.cn'
           git add appcast.json
           git commit -am 'update appcast.json'
 
